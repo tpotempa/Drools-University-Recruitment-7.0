@@ -38,9 +38,9 @@ public class Dataset {
 
         return new ArrayList<ExamSubjectResult>(Arrays.asList(
                 new ExamSubjectResult("język polski", "podstawowy", 35D),
-                new ExamSubjectResult("matematyka", "rozszerzony", 80D),
                 new ExamSubjectResult("język angielski", "podstawowy", 55D),
                 new ExamSubjectResult("informatyka", "podstawowy", 95D),
+                new ExamSubjectResult("matematyka", "rozszerzony", 80D),
                 new ExamSubjectResult("biologia", "podstawowy", 77D),
                 new ExamSubjectResult("język polski", "podstawowy", 44D),
                 new ExamSubjectResult("matematyka", "rozszerzony", 100D),
